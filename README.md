@@ -44,3 +44,9 @@ Define the AWS provider and required resources like S3 buckets, IAM roles, and p
             region = "ap-south-1"
         }
     ```
+2. In your Integrated Development Environment (IDE), open the terminal and navigate to the directory where you have created these configuration files.
+3. After navigating to the directory where your configuration files are located in your IDE's terminal, you can run the following command to initialize Terraform and prepare it for use with AWS:
+
+   ```hcl
+       terraform init
+   ```
