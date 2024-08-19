@@ -50,4 +50,4 @@ Define the AWS provider and required resources like S3 buckets, IAM roles, and p
    ```hcl
        terraform init
    ```
-Running terraform init will install the necessary plugins and modules required for connecting to AWS and managing your infrastructure.
+Running `terraform init` will install the necessary plugins and modules required for connecting to AWS and managing your infrastructure.
