@@ -39,6 +39,8 @@ If we want to Create a terraform configuration file we have to use .tf (e.g., ma
 **Step 4: Define your Configuration Files in your IDE**
 Define the AWS provider and required resources like S3 buckets, IAM roles, and policies
 1. Define provider.tf file using the below code :
-     provider "aws" {
+    ```hcl
+provider "aws" {
     region = "ap-south-1"
 }
+```
