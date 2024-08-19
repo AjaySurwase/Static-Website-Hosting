@@ -51,6 +51,7 @@ Define the AWS provider and required resources like S3 buckets, IAM roles, and p
        terraform init
    ```
 Running `terraform init` will install the necessary plugins and modules required for connecting to AWS and managing your infrastructure.
+
 4. And then define resource.tf file for creating bucket by using the below code :
 
 ```hcl
