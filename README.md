@@ -157,10 +157,13 @@ terraform apply -auto-approve
 ```
 4. It will give your website link as output as shown below
 
+![image](https://github.com/user-attachments/assets/4ae382c2-7c7e-4f68-8d5d-d50919bb6aa5)
 
 ### Step 6: Verify the Output 
 
 Copy the link and paste it in your favourite browser.
+
+![image](https://github.com/user-attachments/assets/4da00601-76a0-4cbc-a0e9-dc555b2bac74)
 
 
 
