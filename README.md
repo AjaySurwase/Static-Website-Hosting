@@ -59,3 +59,11 @@ Running `terraform init` will install the necessary plugins and modules required
             bucket = "web-bucket-ajay"
         }
 ```
+
+5. Then below command for creating the bucket :
+
+   ```hcl
+       terraform apply -auto-approve
+   ```
+   
+6. And then add the below codes in resource.tf file :
